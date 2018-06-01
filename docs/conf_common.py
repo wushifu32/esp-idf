@@ -64,7 +64,8 @@ extensions = ['breathe',
                    'sphinxcontrib.actdiag',
                    'sphinxcontrib.nwdiag',
                    'sphinxcontrib.rackdiag',
-                   'sphinxcontrib.packetdiag'
+                   'sphinxcontrib.packetdiag',
+                   'sphinxcontrib.wavedrom'
                   ]
 
 # Set up font for blockdiag, nwdiag, rackdiag and packetdiag
